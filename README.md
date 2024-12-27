@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<a href="https://scholar.google.com/citations?user=7cTDjzYAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+
+
 <!--
 ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?link=https://scholar.google.com&style=for-the-badge&logo=google-scholar&logoColor=white)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhugoverhelst.nl&link=https%3A%2F%2Fhugoverhelst.nl)
