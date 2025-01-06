@@ -18,11 +18,11 @@ I'm Hugo Verhelst, a researcher in **Computational Mechanics** using **Isogeomet
   - ... phase-field modeling, with special focus in **fracture**.
 
 :computer: I am currently co-developing the following software libraries:
-  - [Geometry + Simulation Modules (`gismo`)](github.com/gismo): a `C++` library for Isogeometric Analysis.
-  - [`gsKLShell`](github.com/gismo/gsKLShell): A module for isogeometric Kirchhoff--Love shell analysis in `gismo`
-  - [`gsStructuralAnalysis`](github.com/gismo/gsStructuralAnalysis): A module with structural analysis methods for `gismo`
-  - [`gsUnstructuredSplines`](github.com/gismo/gsUnstructuredSplines): A module for unstructured spline constructions in `gismo`
-  - [`Gismo.jl`](github.com/gismo/Gismo.jl): A Julia interface to `gismo`
+  - [Geometry + Simulation Modules (`gismo`)](https://github.com/gismo): a `C++` library for Isogeometric Analysis.
+  - [`gsKLShell`](https://github.com/gismo/gsKLShell): A module for isogeometric Kirchhoff--Love shell analysis in `gismo`
+  - [`gsStructuralAnalysis`](https://github.com/gismo/gsStructuralAnalysis): A module with structural analysis methods for `gismo`
+  - [`gsUnstructuredSplines`](https://github.com/gismo/gsUnstructuredSplines): A module for unstructured spline constructions in `gismo`
+  - [`Gismo.jl`](https://github.com/gismo/Gismo.jl): A Julia interface to `gismo`
   - [`pygismo`](https://pypi.org/project/pygismo/): A Python interface to `gismo`
 
 
