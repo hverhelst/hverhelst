@@ -1,6 +1,6 @@
-<a href="hugoverhelst.nl"><img src="https://img.shields.io/badge/HUGOVERHELST.nl-000000?style=for-the-badge" /></a>
+<a href="https://hugoverhelst.nl"><img src="https://img.shields.io/badge/HUGOVERHELST.nl-000000?style=for-the-badge" /></a>
 <a href="https://bsky.app/profile/hugoverhelst.nl"><img src="https://img.shields.io/badge/Bluesky-0a7aff?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
-<a href="www.linkedin.com/in/hugo-verhelst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hugo-verhelst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.com/citations?user=7cTDjzYAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
 <a href="https://orcid.org/0000-0001-8677-862X"><img src="https://img.shields.io/badge/ORCID-a5cd39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 ---
