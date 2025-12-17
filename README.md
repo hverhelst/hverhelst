@@ -9,7 +9,7 @@
 
 I'm Hugo Verhelst, a researcher in **Computational Mechanics** using **Isogeometric Analysis**. 
 
-:school: Currently, I am affiliated to the **Department of Civil Engineering and Architecture** of the **University of Pavia (Italy)**, in [prof. Alessandro Reali](http://www-9.unipv.it/alereali/)'s group.
+:school: Currently, I am affiliated to the **Department of Mechanical Engineering** of the **Eindhoven University of Technology (The Netherlands)**.
 
 
 :microscope: My research focusses on...
